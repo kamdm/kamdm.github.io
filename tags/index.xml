@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on 长隆站点</title>
+        <title>Tags on 锦-Kam</title>
         <link>https://kamdm.github.io/tags/</link>
-        <description>Recent content in Tags on 长隆站点</description>
+        <description>Recent content in Tags on 锦-Kam</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>小龙-letere</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kamdm.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>标-Kam</copyright>
+        <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kamdm.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
         <link>https://kamdm.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://kamdm.github.io/tags/css/</guid>
         <description></description>
@@ -18,7 +18,7 @@
         <item>
         <title>Html</title>
         <link>https://kamdm.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://kamdm.github.io/tags/html/</guid>
         <description></description>
@@ -26,7 +26,7 @@
         <item>
         <title>Markdown</title>
         <link>https://kamdm.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://kamdm.github.io/tags/markdown/</guid>
         <description></description>
@@ -34,33 +34,17 @@
         <item>
         <title>Themes</title>
         <link>https://kamdm.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
         
         <guid>https://kamdm.github.io/tags/themes/</guid>
         <description></description>
         </item>
         <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://kamdm.github.io/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>https://kamdm.github.io/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>https://kamdm.github.io/tags/emoji/</link>
+        <title>联系方式</title>
+        <link>https://kamdm.github.io/tags/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://kamdm.github.io/tags/emoji/</guid>
+        <guid>https://kamdm.github.io/tags/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</guid>
         <description></description>
         </item>
         

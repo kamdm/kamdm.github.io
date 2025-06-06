@@ -1,51 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on 长隆站点</title>
+        <title>Categories on 锦-Kam</title>
         <link>https://kamdm.github.io/categories/</link>
-        <description>Recent content in Categories on 长隆站点</description>
+        <description>Recent content in Categories on 锦-Kam</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>小龙-letere</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kamdm.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>标-Kam</copyright>
+        <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kamdm.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>活动</title>
+        <link>https://kamdm.github.io/categories/%E6%B4%BB%E5%8A%A8/</link>
+        <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kamdm.github.io/categories/%E6%B4%BB%E5%8A%A8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>仰望</title>
+        <link>https://kamdm.github.io/categories/%E4%BB%B0%E6%9C%9B/</link>
+        <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kamdm.github.io/categories/%E4%BB%B0%E6%9C%9B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>水上</title>
+        <link>https://kamdm.github.io/categories/%E6%B0%B4%E4%B8%8A/</link>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kamdm.github.io/categories/%E6%B0%B4%E4%B8%8A/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>娱乐</title>
+        <link>https://kamdm.github.io/categories/%E5%A8%B1%E4%B9%90/</link>
+        <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kamdm.github.io/categories/%E5%A8%B1%E4%B9%90/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>歇后</title>
+        <link>https://kamdm.github.io/categories/%E6%AD%87%E5%90%8E/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://kamdm.github.io/categories/%E6%AD%87%E5%90%8E/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>https://kamdm.github.io/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://kamdm.github.io/categories/test/</guid>
         <description>&lt;img src="https://kamdm.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>https://kamdm.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Syntax</title>
-        <link>https://kamdm.github.io/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/categories/syntax/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Themes</title>
-        <link>https://kamdm.github.io/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/categories/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Test With Whitespaces</title>
-        <link>https://kamdm.github.io/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://kamdm.github.io/categories/test-with-whitespaces/</guid>
-        <description></description>
         </item>
         
     </channel>
