@@ -14,9 +14,12 @@
         
         <guid>https://kamdm.github.io/p/%E9%95%BF%E9%9A%86%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD/</guid>
         <description>&lt;img src="https://kamdm.github.io/p/%E9%95%BF%E9%9A%86%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 长隆水上乐园" /&gt;&lt;p&gt;最近去了刚焕新开园的广州长隆水上乐园，简直打开了玩水新世界！5 月 11 日全新升级后，三大世界级设备首秀，直接把刺激值拉满，分享下超嗨体验.&lt;/p&gt;
-&lt;video width=&#34;820&#34; height=&#34;440&#34; controls&gt; 
-  &lt;source src=&#34;7ddbc9a.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
+&lt;p&gt;&lt;video controls 
+style=&#34;width:100%; height:auto; max-height:80vh;&#34;
+playsinline preload=&#34;metadata&#34; loading=&#34;lazy&#34;
+muted&gt;
+&lt;source src=&#34;7ddbc9a.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
 &lt;h2 id=&#34;一暮色里的梦幻开场&#34;&gt;一、暮色里的梦幻开场
 &lt;/h2&gt;&lt;p&gt;暮色刚漫过天际线，长隆水上乐园的霓虹灯就亮成了银河。游客服务中心的荧光招牌像块魔法石，一脚踏进去，暑气和烦恼都被拦在门外。大屏幕上的白虎影像与乐园的欢闹奇妙交融，仿佛在说：“欢迎闯入，这个连猛兽都想玩水的奇妙夜。”
 沿着灯影走，巨型水滑道突然从夜色里 “长” 出来 —— 红的像燃烧的晚霞，绿的似盛夏的棕榈，蓝的恍若深海漩涡。灯光给它们镀上琉璃般的壳，还没玩，光看这阵仗，心跳就先跟着滑道转了几个弯。&lt;/p&gt;
@@ -26,7 +29,7 @@
 	srcset=&#34;https://kamdm.github.io/p/%E9%95%BF%E9%9A%86%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD/5766f0214e_hu_ad3d7372e8741352.jpg 480w, https://kamdm.github.io/p/%E9%95%BF%E9%9A%86%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD/5766f0214e_hu_299d448dc2b65ad1.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
-		alt=&#34;番禺极限越野场&#34;
+		alt=&#34;梦幻彩龙&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
